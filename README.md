@@ -7,4 +7,3 @@ The template can either be passed as a flag: ```-template='{"date": "{{.Date}}"}
 
 or as an environment variable: ```TEMPLATE='{"date": "{{.Date}}"}"' ./simple-webserver```
 
-Latest image can be found here: https://hub.docker.com/r/endianogino/simple-webserver
